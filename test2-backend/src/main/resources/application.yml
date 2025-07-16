@@ -7,7 +7,7 @@ spring:
   
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:23306/testdb?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://host.docker.internal:23306/testdb?serverTimezone=UTC&characterEncoding=UTF-8
     username: test
     password: test1234
   

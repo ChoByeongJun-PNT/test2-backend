@@ -60,7 +60,7 @@ Thumbs.db
 # ========================
 # 환경 파일 (선택)
 # ========================
-
 .env
 application-local.yml
 application-dev.yml
+/bin/
