@@ -1,0 +1,62 @@
+plugins {
+    id 'org.springframework.boot' version '2.7.17'
+    id 'io.spring.dependency-management' version '1.0.15.RELEASE'
+    id 'java'
+    id 'eclipse'
+}
+
+group = 'com.example'
+version = '1.0.0'
+sourceCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://maven.egovframe.go.kr/maven/"
+    }
+}
+
+configurations {
+    all {
+        exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
+    }
+}
+
+dependencies {
+    // Spring Boot
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+    
+    // eGovFrame
+    implementation "org.egovframe.rte:org.egovframe.rte.ptl.mvc:4.3.0"
+    implementation "org.egovframe.rte:org.egovframe.rte.psl.dataaccess:4.3.0"
+    implementation "org.egovframe.rte:org.egovframe.rte.fdl.idgnr:4.3.0"
+    implementation "org.egovframe.rte:org.egovframe.rte.fdl.property:4.3.0"
+    
+    // JPA 관련 의존성 정리
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    
+    // MySQL
+    implementation 'mysql:mysql-connector-java:8.0.33'
+    
+    // Lombok
+    compileOnly 'org.projectlombok:lombok:1.18.34'
+    annotationProcessor 'org.projectlombok:lombok:1.18.34'
+    
+    // Test
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation "org.seleniumhq.selenium:selenium-java:4.13.0"
+}
+
+test {
+    useJUnitPlatform()
+}
+
+eclipse {
+    classpath {
+        downloadSources = true
+        downloadJavadoc = true
+    }
+}

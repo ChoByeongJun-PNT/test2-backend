@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry output="bin/main" kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/test" kind="src" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/861d5074b9a04a7f1c1e128584a66b2b815fc3d4/lombok-1.18.34-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/ec547ef414ab1d2c040118fb9c1c265ada63af14/lombok-1.18.34.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/c4a5dac8cf187a0a0ee32780997f2fdf192ec363/lombok-1.18.34-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/2.7.17/1201f6a42231528de305e7a4dc21649a88375a37/spring-boot-starter-web-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/2.7.17/aeb473ae622bc61e5cd153384c0a57ff4a75b5b7/spring-boot-starter-web-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/2.7.17/5750e5f686aca15d66c74b6cfeeab44cf2fe7212/spring-boot-starter-web-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/2.7.17/63b5b7e554f36f4e227603d8181ec75c7cea580/spring-boot-starter-thymeleaf-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/2.7.17/936de9da73ce33c8daaf5898ba5ae4097fa2db42/spring-boot-starter-thymeleaf-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/2.7.17/b302f8185b9ab5e525184f2423faac7d3c6f4d71/spring-boot-starter-thymeleaf-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.7.17/31ee170ffcf01dbaabc91de6ca2b1c47e932a823/spring-boot-starter-validation-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.7.17/5b8f045e204ba642a2680d83c0498be7d622deaf/spring-boot-starter-validation-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-validation/2.7.17/f3cf434c98dc60b2f5541fa1de6ed922c88ef02f/spring-boot-starter-validation-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.ptl.mvc/4.3.0/2a5a96df0bb2e81528402e5f5affe4185542b21c/org.egovframe.rte.ptl.mvc-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.ptl.mvc/4.3.0/d5cda4c60961da1957e88f685b43fe48d61550cc/org.egovframe.rte.ptl.mvc-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.ptl.mvc/4.3.0/7031f026b284b29a100a6056c4f340b664fd954a/org.egovframe.rte.ptl.mvc-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.psl.dataaccess/4.3.0/96aeb7e42d5ceda36b737ad2e30da289f8b15287/org.egovframe.rte.psl.dataaccess-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.psl.dataaccess/4.3.0/76a0e4ea67b2622b74b979c8a646561e717e5783/org.egovframe.rte.psl.dataaccess-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.psl.dataaccess/4.3.0/24e3a4879e62d83065af5f11fc5daf71526e6eeb/org.egovframe.rte.psl.dataaccess-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.idgnr/4.3.0/33263de8494603568a6c78f13f00f6dae743aa26/org.egovframe.rte.fdl.idgnr-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.idgnr/4.3.0/909c043133f5001ea6726c872bc9a40487a5dcd9/org.egovframe.rte.fdl.idgnr-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.idgnr/4.3.0/39e87898fb2b59b8682bb555f689722d8154bc30/org.egovframe.rte.fdl.idgnr-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.property/4.3.0/b1e1b85d486237daf2b54fdf26dcedab2aa1c8b7/org.egovframe.rte.fdl.property-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.property/4.3.0/89429ebb5a07127c344ed87d90e017996b28c56b/org.egovframe.rte.fdl.property-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.property/4.3.0/b80e95b776633dff887bc74fe008f07b797764f1/org.egovframe.rte.fdl.property-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.7.17/9281f2686d453158c20ac2dac537acb7bf3e6154/spring-boot-starter-data-jpa-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.7.17/58f1589f84fcc1cc5f0bfaca2d5d4e66f24a0489/spring-boot-starter-data-jpa-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/2.7.17/64c1f97c06cdd4ba11b2b0e83785beb414137e5/spring-boot-starter-data-jpa-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/2.7.17/cddc302197dcf8e6585809a878ab8af7cf47c82d/spring-boot-starter-json-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/2.7.17/a55883f776d124b1c25455d237292e3cb6ec0800/spring-boot-starter-json-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-json/2.7.17/90853f6bd49789560b09a53e75e70a1a40606a39/spring-boot-starter-json-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/2.7.17/d1c7d3d755ea38545101491c82078eb4d242efc7/spring-boot-starter-aop-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/2.7.17/c049c588ae94af34917f878d6f52f867473e66a0/spring-boot-starter-aop-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/2.7.17/2113363f93dc72c33f9d58720313acf3a851a642/spring-boot-starter-aop-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/2.7.17/3cbf42f4b7c332efa00c909d9e29e4b5f6763ef4/spring-boot-starter-jdbc-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/2.7.17/11f0473fc3e84ad27af55912aaceff83a7c8a6b3/spring-boot-starter-jdbc-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/2.7.17/8b8d8f47bd68a378727c8be30f6386177c9b1761/spring-boot-starter-jdbc-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.7.17/35cb4b116bfb441f27c4e861defa0a806e3674f3/spring-boot-starter-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.7.17/1924c65f5e42bbdadfbbd11b8abad5ac1fcbdaf/spring-boot-starter-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/2.7.17/ee33b2dee5094979e0aeceef003cea273c8ea478/spring-boot-starter-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.7.17/db61efebc6fee00b6d7c746243888b94bb43b8e2/spring-boot-starter-tomcat-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.7.17/ff7e056a41de66c04c91fc5a937dfb85c4436a9c/spring-boot-starter-tomcat-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/2.7.17/e3dff3354321e32f70be494e5372e9abef814a6f/spring-boot-starter-tomcat-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.30/59c0160aeb2515164f45e7638620ed2a5ffd5ce5/spring-webmvc-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.30/67ad9ebc6189c91942a52328f58d824cd3171fd9/spring-webmvc-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.30/f7aeb3ba2b883af526d8e1039a59b9be6d1efb13/spring-webmvc-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.30/278f1bb85a529a154afd7c2533b03d77f413f11f/spring-web-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.30/e1a1fd179650d4ccbf95d3f475bf1050a1a84484/spring-web-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.30/1dd893e2aca6b45d078b901209ae7e0365f2f7b9/spring-web-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/c903231c3c1be70166401c8a502919778b8356d7/thymeleaf-spring5-3.0.15.RELEASE-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/7170e1bcd1588d38c139f7048ebcc262676441c3/thymeleaf-spring5-3.0.15.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/3e2445441396c98fabc1aacaf16d70d5f888452a/thymeleaf-spring5-3.0.15.RELEASE-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf.extras/thymeleaf-extras-java8time/3.0.4.RELEASE/7773e85b03657ddc42d124d7553d856fb512f5bf/thymeleaf-extras-java8time-3.0.4.RELEASE-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf.extras/thymeleaf-extras-java8time/3.0.4.RELEASE/36e7175ddce36c486fff4578b5af7bb32f54f5df/thymeleaf-extras-java8time-3.0.4.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf.extras/thymeleaf-extras-java8time/3.0.4.RELEASE/51b0986c9527c0969b7eb4df096d5e63d067d3db/thymeleaf-extras-java8time-3.0.4.RELEASE-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/9.0.82/7524f2db806bc6a12fc28f4a6441090daea05dea/tomcat-embed-el-9.0.82-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/9.0.82/a795b1cc0b8be625dfd70049641d21d2e30d07c4/tomcat-embed-el-9.0.82.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.2.5.Final/63cae51be197f942db543d5e2247eeaa79433849/hibernate-validator-6.2.5.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.2.5.Final/a68959c06e5f8ff45faff469aa16f232c04af620/hibernate-validator-6.2.5.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.cmmn/4.3.0/34513184191ce4288d0c9f0bf8b0b9c8ba4ed59/org.egovframe.rte.fdl.cmmn-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.cmmn/4.3.0/e62e292e2e5a5995c33a3020728f34aedeb73178/org.egovframe.rte.fdl.cmmn-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.cmmn/4.3.0/ec29b609d35f99f3e8823f782c6ea5d23dd870e3/org.egovframe.rte.fdl.cmmn-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/spring-modules-validation/0.9/74195f23d755625b053195076ab9387942a06b4d/spring-modules-validation-0.9-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/spring-modules-validation/0.9/d57e4ea3c73914fe2c32cecd62aaa83307c279a6/spring-modules-validation-0.9.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.8.0/dbc5b89cdc28a6941847c6f375211f8d8ec3df35/commons-validator-1.8.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.8.0/49bb9f45e0aa3c8b2261394c76675fba6f20d2e4/commons-validator-1.8.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-validator/commons-validator/1.8.0/57adad53b69bd82aa4c960c00dbc5beae76107bc/commons-validator-1.8.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.logging/4.3.0/20b00aec85751d5d5a25c5310d1f567fcfb40f3b/org.egovframe.rte.fdl.logging-4.3.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.logging/4.3.0/363d73345ee8dae3a27c296534eab4cad0c63b8d/org.egovframe.rte.fdl.logging-4.3.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.egovframe.rte/org.egovframe.rte.fdl.logging/4.3.0/6edfb3c91a3cd57250ec30a158ceda3758960fa7/org.egovframe.rte.fdl.logging-4.3.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/65dfd2c47380bf72ec62a5b8c4ceb78a4eda1a53/javax.annotation-api-1.3.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/934c04d3cfef185a8008e7bf34331b79730a9d43/javax.annotation-api-1.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.3.2/cbbe0a4445e038f75c4c8aea3179bd17108ec57e/javax.annotation-api-1.3.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.7.17/546a211180e656fdf26d8b1a1c3ae08ac3cb0a9e/spring-data-jpa-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.7.17/79480c45e245fae3e4c88f0e5cfcfa999c7edfc6/spring-data-jpa-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.7.17/e231c204519b2f2dd2adf6d0fbe327b17c509ca/spring-data-jpa-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.7.17/ddb1134152d7541a8b4efef663e47021454fcfd5/spring-boot-autoconfigure-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.7.17/8542fed23059bc0c746cd05ed5eda4a86f66c8cf/spring-boot-autoconfigure-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.7.17/3bb5ce00b98505673aa546d33b718f387fb988f5/spring-boot-autoconfigure-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.7.17/ef2dce7454654e6dff0e0d07e7f6def0d247d35/spring-boot-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.7.17/b686330883c83d4cdd684b4b0e382870ed1594f0/spring-boot-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.7.17/1c41521be07c9f3d050f34f83acd42edbaff90f3/spring-boot-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.3.30/4762e018c7d452bbdd569a986babf8f9610f84a8/spring-context-support-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.3.30/1718aa21c02563a72d1d944c226c2cb76e510c15/spring-context-support-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/5.3.30/af2f925c5f8b1376681cb8dc3e717fc584f3562c/spring-context-support-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.30/e802db543ae25ff55936212c58c80647cfc39862/spring-context-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.30/f57f929a5e4e3ccfc2efb8fc053245e82cc5c983/spring-context-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.3.30/add87e80a4a17032152e340bff5788d3a1c3f543/spring-context-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.3.30/179ff8f553187c37684675cd7e03758e2934bfdb/spring-orm-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.3.30/c5f73a9b7071cee0c3feda984753bcf581e00642/spring-orm-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.3.30/215a30f945d3c9ce4e3f041712a84d9db344a0e6/spring-orm-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax/javaee-api/8.0.1/338ec882eaaccd6c9b56892c3a843e7f7446c11c/javaee-api-8.0.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax/javaee-api/8.0.1/515a40c1f19802a18a187f59bfbe445a62218a04/javaee-api-8.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax/javaee-api/8.0.1/1c74ab243269d20ab01d3237d58f59662f07c1e3/javaee-api-8.0.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.ibatis/ibatis-sqlmap/2.3.4.726/e45c96d3b55bd8b6be5da2286e7cad918e626c0b/ibatis-sqlmap-2.3.4.726-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.ibatis/ibatis-sqlmap/2.3.4.726/d5dcd02aaa7ba1a226e687bd4c366fe084d6e2cc/ibatis-sqlmap-2.3.4.726.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.5.16/9dd8d3f0e6451140b2c8f0c6ad4217dacde8eb22/mybatis-3.5.16-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.5.16/bea0cf2e8f29ec65adb4685bbfec673a28a63ee1/mybatis-3.5.16.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.5.16/424d2e95f1dfe0775d33268307dde319beb342c2/mybatis-3.5.16-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.1.2/931201b1b8637b158ccc96aa6ac36908b6cca974/mybatis-spring-2.1.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.1.2/ace0984a125822155e2cb3fa7526787c30da7048/mybatis-spring-2.1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/2.1.2/b4174213e6a7c06723757149aae9d2a369e42733/mybatis-spring-2.1.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/6260e416ff273ee938b31b0a8e512a367b1ee500/commons-collections4-4.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/62ebe7544cb7164d87e0637a2a6a2bdc981395e8/commons-collections4-4.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-collections4/4.4/8baf13b7fc0266b4e0791dd081f03189155e68e0/commons-collections4-4.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.30/76823ec4aa74db2ee53b6e3d768db3771c290d35/spring-jdbc-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.30/79a770eddd792e5ad8f4dc60e35378f7c43a4539/spring-jdbc-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.3.30/ad7d0f7b2d83a57b2d81c85124f635f7a4a5dc8e/spring-jdbc-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-configuration2/2.11.0/613216569295c3594984d97225ae255c6082ad4c/commons-configuration2-2.11.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-configuration2/2.11.0/af5a2c6abe587074c0be1107fcb27fa2fad91304/commons-configuration2-2.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-configuration2/2.11.0/53e7897517964df4fc80ff4f3dfd9f1eb4ba399d/commons-configuration2-2.11.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/1.3.3/4ea5dba7d38f64e274bd3b0f0314383f009583ec/jakarta.transaction-api-1.3.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/1.3.3/c4179d48720a1e87202115fbed6089bdc4195405/jakarta.transaction-api-1.3.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/1.3.3/a7c65ebaf9b4024a4a98b0713dbf122018c089af/jakarta.transaction-api-1.3.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/2.2.3/f9671636b64baca8130e3fcf516894d40173b47f/jakarta.persistence-api-2.2.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/2.2.3/8f6ea5daedc614f07a3654a455660145286f024e/jakarta.persistence-api-2.2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/2.2.3/b8f513ee21ac2e372e1e269201ef95a89edd130b/jakarta.persistence-api-2.2.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.6.15.Final/e0fa5b954311688f0b788c288ced4d39037a7dec/hibernate-core-5.6.15.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.6.15.Final/ab14b7cef1fdff654ca81923048a6034d6c7cfa7/hibernate-core-5.6.15.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.6.15.Final/b97d4235b0492677616a356adcb3cbba2ff9de3a/hibernate-core-5.6.15.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/5.3.30/1120bd1ac574cff22a717429593e86d769eb949c/spring-aspects-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/5.3.30/fe18902077a8c82db0ae00814336da4a88af0157/spring-aspects-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/5.3.30/233a2d62ebd8bd6f074e8f8c7b289e29d66b5ca0/spring-aspects-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.mysql/mysql-connector-j/8.0.33/3e86363e438eca05a3c60d26a48caa64d8ceeab/mysql-connector-j-8.0.33-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.mysql/mysql-connector-j/8.0.33/9e64d997873abc4318620264703d3fdb6b02dd5a/mysql-connector-j-8.0.33.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.mysql/mysql-connector-j/8.0.33/7d98deab3fe380cda68a7ebef92d5f045508ee9e/mysql-connector-j-8.0.33-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/1.3.5/1ad35f11d17abb52426bfe15ea7b4c583795012/jakarta.annotation-api-1.3.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/1.3.5/59eb84ee0d616332ff44aba065f3888cf002cd2d/jakarta.annotation-api-1.3.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/1.3.5/dce659c5763ffa1e86520cb4d29ca72b89b6605e/jakarta.annotation-api-1.3.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.30/5f35bfd825499b3f30be106761c6e08a96f2d9/spring-aop-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.30/1727f2f562fdbdf15c7ae3ed0ff506c20555edfb/spring-aop-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.30/43dbce3efa2dbbc9d0f81ede93c8d0a3734d872c/spring-aop-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.30/c42e9a56e666d9392e02da86fe1c1a252d825a49/spring-tx-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.30/9ad982e667484e80d0000abd65880e20e867f75a/spring-tx-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.3.30/8fa211731cddbb692e1f9800f19aebe06148afba/spring-tx-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.7.17/c81a369ce4f8afd247247c09faf9dac326b2e45f/spring-data-commons-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.7.17/a770eb18bdfe52ff9d43f9b8a618e854e757af3c/spring-data-commons-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.7.17/f16c19fbf4f8f92abe1f5f11706160f4074f484f/spring-data-commons-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.30/dce0d58f5aaf919f41d020a440a1852cc4bcee78/spring-beans-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.30/cb67c4d7a42fbbac5a0991fb3b774f0f0e5c9834/spring-beans-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.3.30/6ced9e5744108c869e01af87f7d886b785921c01/spring-beans-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.30/b2fcd6629890e2971e57e186a81b627390120d33/spring-expression-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.30/c9165dd27c851fd9b8e4b4547c22261ca83388c0/spring-expression-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/5.3.30/984f9d9230223049d7853b206e5b3b776259342b/spring-expression-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.30/76be5565627f2acd8f6dab40c4eae3bfafa94566/spring-core-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.30/cd2b09bf9bdb45c3cf2b771317b6dd0d6b2f6a25/spring-core-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.30/36fcbbab58b69f6b2d453db50792eaf8bb76b25b/spring-core-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/2fa17b2e1e6edc10ce8dec15df18a844efd8318b/snakeyaml-1.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/8fde7fe2586328ac3c68db92045e1c8759125000/snakeyaml-1.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.30/9445bc81714b2844c7caffe2e2597e67ede7a68f/snakeyaml-1.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.5/5cce8bd15ceddf1aca730d1d8d688637b2ee38c6/jackson-datatype-jsr310-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.5/8ba3b868e81d7fc6ead686bd2353859b111d9eaf/jackson-datatype-jsr310-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.13.5/d8fea0483d0945b06b85351a8badfcc9f90c2871/jackson-datatype-jsr310-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.5/6818c520f58eaec69783b4433171ae24e6e605a8/jackson-module-parameter-names-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.5/a401a99e7a45450fd3ef76e82ba39005fd1a8c22/jackson-module-parameter-names-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-parameter-names/2.13.5/12c09cbbf8861d642c983d03acaa0980b7d2d64c/jackson-module-parameter-names-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.5/b266ae3678e8fd2365128b476460821ffd5a897a/jackson-annotations-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.5/136f77ab424f302c9e27230b4482e8000e142edf/jackson-annotations-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.13.5/37194ac2066911d26de9f99bc39d3fa7c980f62c/jackson-annotations-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.5/f548b6ad75498b779a0b9f59a2929fc15fcad07a/jackson-core-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.5/d07c97d3de9ea658caf1ff1809fd9de930a286a/jackson-core-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.13.5/b001a1c00ad3e807351c0cae2e6a8f96609b4024/jackson-core-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.5/1a4ab5653e4cac2f53c18f81c1f65acbd61663a2/jackson-datatype-jdk8-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.5/1278f38160812811c56eb77f67213662ed1c7a2e/jackson-datatype-jdk8-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.13.5/3a2cc1bba9a2c507cb787eb51ca13c42da3d3fa0/jackson-datatype-jdk8-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/fa5c716a3e3896fd7ec8caed1b2860050b1a6d52/jackson-databind-2.13.5-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/aa95e46dbc32454f3983221d420e78ef19ddf844/jackson-databind-2.13.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.13.5/45b8d7dc34c8e87814f5f42d4c2f6e5619473a51/jackson-databind-2.13.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/9.0.82/d7ac55f2f6f629e03d82bf61a5148ae6e7d2a981/tomcat-embed-websocket-9.0.82-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/9.0.82/b0feb83c0358859acd19b90a83e5bc3cfcc7cf15/tomcat-embed-websocket-9.0.82.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.82/485d15e4a988b971def3aa40cdaa6bcf725ddee3/tomcat-embed-core-9.0.82-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/9.0.82/717d7aeaeb5cace5c021eb43f60f32ca8fa70b49/tomcat-embed-core-9.0.82.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/3.0.15.RELEASE/5eb92df63196cac1d1df5cd3833ed25cdda8c1b9/thymeleaf-3.0.15.RELEASE-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/3.0.15.RELEASE/13e3296a03d8a597b734d832ed8656139bf9cdd8/thymeleaf-3.0.15.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/3.0.15.RELEASE/f7ccdd7ef17420470d9e41a8a300ef758abcfafc/thymeleaf-3.0.15.RELEASE-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.17.2/74a61478bcc5401ad43eb5ed422d4e987343cbd7/log4j-slf4j-impl-2.17.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.17.2/183f7c95fc981f3e97d008b363341343508848e/log4j-slf4j-impl-2.17.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-slf4j-impl/2.17.2/81c91e305009ca31d6d4aa8c34e0cd753f302e30/log4j-slf4j-impl-2.17.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.36/91b21b162173dfc6bb676bc7f4865cdd268eac68/jcl-over-slf4j-1.7.36-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.36/d877e195a05aca4a2f1ad2ff14bfec1393af4b5e/jcl-over-slf4j-1.7.36.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.36/cd5445a12ecf2a6709b0e4ecb0cd9cd202f59844/jcl-over-slf4j-1.7.36-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.36/a715f0f390b52daade0ce2f1002b9efb50f5a0ca/log4j-over-slf4j-1.7.36-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.36/2a753acda077203a4794f106871bb237501c9a53/log4j-over-slf4j-1.7.36.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.36/7c3aa41932b82228c6b786cd51ed58142637fd59/log4j-over-slf4j-1.7.36-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/4.0.3/b27e256676e4457e73aaea5dfe19795ab2451f93/HikariCP-4.0.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/4.0.3/107cbdf0db6780a065f895ae9d8fbf3bb0e1c21f/HikariCP-4.0.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/4.0.3/97485a8bf4872237244ecca77bb8006b2de15542/HikariCP-4.0.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/ae9c1aae0033af915cfa75d850eb9d880f21a701/slf4j-api-1.7.36-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/6c62681a2f655b49963a5983b8b0950a6120ae14/slf4j-api-1.7.36.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.36/f91b284d55365e88248e6493bc5959c8e81d5fa3/slf4j-api-1.7.36-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/ef429a7f3bc2d2d1784a1135668a857a6aaedf31/jakarta.validation-api-2.0.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/5eacc6522521f7eacb081f95cee1e231648461e7/jakarta.validation-api-2.0.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/2.0.2/797faa9f460e924c345d17727b1f753a1d5f0b6b/jakarta.validation-api-2.0.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.1.2.Final/f61bcf5c598d45f10dc79688ebce6b4d1c2c5bd5/hibernate-commons-annotations-5.1.2.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hibernate.common/hibernate-commons-annotations/5.1.2.Final/e59ffdbc6ad09eeb33507b39ffcf287679a498c8/hibernate-commons-annotations-5.1.2.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.4.3.Final/85e076a2f4d153c57f4dc414e7212a1b1e1a29fd/jboss-logging-3.4.3.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.4.3.Final/c4bd7e12a745c0e7f6cf98c45cdcdf482fd827ea/jboss-logging-3.4.3.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.4.3.Final/92d1ec42f87cf13cd074634ddf952ba76a272b66/jboss-logging-3.4.3.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.5.1/504edac38ff03cc5ce1d0391abb1416ffad58a99/classmate-1.5.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.5.1/3fe0bed568c62df5e89f4f174c101eab25345b6c/classmate-1.5.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.fasterxml/classmate/1.5.1/ce0139c18e5a65d7aedd622741a549c3456c1f3d/classmate-1.5.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.7/8da21dfaf64693f4a9c269298dce04d12a7b10fd/aspectjweaver-1.9.7-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.7/158f5c255cd3e4408e795b79f7c3fbae9b53b7ca/aspectjweaver-1.9.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.9.7/115961ef93aaea7f479379e0e12f222dc057aba8/aspectjweaver-1.9.7-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.7/b81bf8b54cdbddf2f7f18d315b0f7fadc685ec00/aspectjrt-1.9.7-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.7/ac42a7759a685a098b182bc0a39747f32f00adb0/aspectjrt-1.9.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.9.7/ee27c8455d3617623af383635ef55095acce8545/aspectjrt-1.9.7-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.12.0/9ff4f979b84635ca1b57a3298dd905b61e7fd0ca/commons-text-1.12.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.12.0/66aa90dc099701c4d3b14bd256c328f592ccf0d6/commons-text-1.12.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.12.0/da00660b487e52294628a0a8fdee4753bcd2cc6a/commons-text-1.12.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/198b882fdc2c72c89c63401d946f6ba46c3acea3/commons-lang3-3.12.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/4c8dc2f3978b0d70918dd6bf79daf12a84e7d959/commons-lang3-3.12.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.4/f00e0ba867d1810f255876631ab440e0725a9af0/commons-beanutils-1.9.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.4/d52b9abcd97f38c81342bb7e7ae1eee9b73cba51/commons-beanutils-1.9.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.4/6daf5afaab5f8d1c578d72c548d84b4e15b91c6c/commons-beanutils-1.9.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.1/32d198e5ebef012249b225118c7cb9caae56c4d8/commons-digester-2.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.1/73a8001e7a54a255eef0f03521ec1805dc738ca0/commons-digester-2.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-digester/commons-digester/2.1/3e254269db21759b12b1a40b98b32c4bebfd4435/commons-digester-2.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/78c50ebda5784937ca1615fc0e1d0cb35857d572/commons-collections-3.2.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5/commons-collections-3.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-collections/commons-collections/3.2.2/ea9a113ab0147c4d48dda62dff207be07374c590/commons-collections-3.2.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/88b2d34add2e0370c6a6d03ac7b3609b143e46bd/log4j-core-2.17.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/fa43ba4467f5300b16d1e0742934149bfc5ac564/log4j-core-2.17.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.17.2/a7cdf5d38c3d125d534c434f92fe18ca0e00d3c4/log4j-core-2.17.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/f74a1213edad69087c1f8829ca7c68adcce35942/javax.mail-1.6.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/935151eb71beff17a2ffac15dd80184a99a0514f/javax.mail-1.6.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/3cf2c44de42efc993e0e837348823d4fa9f6391/javax.mail-1.6.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.2/3bf2b5ce48a273d1d37bac9df0ab9f73b4ef92cb/commons-logging-1.3.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.2/3dc966156ef19d23c839715165435e582fafa753/commons-logging-1.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.2/614ab4c8af9ef960c39d200afbb78a9b672a2b40/commons-logging-1.3.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.23/9df824cc52b3b88d4c1f8945c3379fbc898f34f6/byte-buddy-1.12.23-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.23/d470526e8c4566c04e9ae5d3ccb62d1a7aa58986/byte-buddy-1.12.23.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.12.23/97b37071b4ca37d8e3c81d46aaf4b77a0dee6519/byte-buddy-1.12.23-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.4.2.Final/798180cc939fc34e3fc6b7e7771f9bde1c63d14a/jandex-2.4.2.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/2.4.2.Final/1e1c385990b258ff1a24c801e84aebbacf70eb39/jandex-2.4.2.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.8/ae0b15b3c7daaed31edaad90e1d92fabd604b988/jaxb-runtime-2.3.8-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.8/c90a335a07c60db986f29d35b0f8ac0a18f0f989/jaxb-runtime-2.3.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.3.8/bfb9e2b504d3d94803d963fdbc520f92b4d108f1/jaxb-runtime-2.3.8-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.30/7a4c1f6852e568deb2a3c67bcf0f91a05b88e52c/spring-jcl-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.30/6851e13bd5e29ddbb5833e7c45322636a8606ac2/spring-jcl-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.3.30/6b7b3ab3175f6d56d0727583260d03b77d75afd6/spring-jcl-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.attoparser/attoparser/2.0.5.RELEASE/14657ecc2618f5cbc894070b01aed1cbeee25456/attoparser-2.0.5.RELEASE-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.attoparser/attoparser/2.0.5.RELEASE/a93ad36df9560de3a5312c1d14f69d938099fa64/attoparser-2.0.5.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.attoparser/attoparser/2.0.5.RELEASE/d3345c51da87a0730b35d6c821972e9bfddd75b/attoparser-2.0.5.RELEASE-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.6.RELEASE/968e1622c27c39bcbcbbecadfb7a0d3c4b8a9d36/unbescape-1.1.6.RELEASE-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.6.RELEASE/7b90360afb2b860e09e8347112800d12c12b2a13/unbescape-1.1.6.RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.unbescape/unbescape/1.1.6.RELEASE/bcd15b3875243a72f2fcdfda2555c553ff870e34/unbescape-1.1.6.RELEASE-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/91a89f75de4f567c38dc7ec9f83f2a1afd2c2915/log4j-api-2.17.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/f42d6afa111b4dec5d2aea0fe2197240749a4ea6/log4j-api-2.17.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.17.2/c3790eb392bad23fcdea595e23c4b3a26bc451c4/log4j-api-2.17.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.3/d83744bae211a4072c39f007000a13f501a88395/jakarta.xml.bind-api-2.3.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.3/48e3b9cfc10752fba3521d6511f4165bea951801/jakarta.xml.bind-api-2.3.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/2.3.3/5685a1e75f9135dcc71e73a690b378e90fcd3b53/jakarta.xml.bind-api-2.3.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.8/6610d41bd5ecd5357b446f9368877c2371052a5b/txw2-2.3.8-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.8/66e0297f1196f0d15a776e699de1b8e6ac5d44dd/txw2-2.3.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/txw2/2.3.8/ce5420b73cee31dabd68bf56c9aae425c501b2c8/txw2-2.3.8-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.12/472b862e0850fddfd912b7de2fd52139c91a8b6f/istack-commons-runtime-3.0.12-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.12/cbbe1a62b0cc6c85972e99d52aaee350153dc530/istack-commons-runtime-3.0.12.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.istack/istack-commons-runtime/3.0.12/13cb2eec31dec5bb557081a104459223d5400cc3/istack-commons-runtime-3.0.12-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/2.7.17/25ce546dc5c66b4f971d8f5b3cb680784f863337/spring-boot-devtools-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/2.7.17/42cd9265da0eb5221558366ea9854fe6229214fd/spring-boot-devtools-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/2.7.17/bbe1b12996aa3ea5940020dbe847bde849f2e471/spring-boot-devtools-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.activation/jakarta.activation/1.2.2/fa3c25fb842cbe9eaa126a007475297f8bf35abe/jakarta.activation-1.2.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.activation/jakarta.activation/1.2.2/74548703f9851017ce2f556066659438019e7eb5/jakarta.activation-1.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.sun.activation/jakarta.activation/1.2.2/273ce13a7698fa781e08b8696b0482f2eb02dd49/jakarta.activation-1.2.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/2.7.17/fb3f3ee115fd4519a869c13e260932c995518651/spring-boot-starter-test-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/2.7.17/84a9a6ce1c9962ce703447964693968f72e4c9db/spring-boot-starter-test-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-test/2.7.17/b1d1b08a921675ce5b2a34a57d2659e8a638ebae/spring-boot-starter-test-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.13.0/1ecb37e0b737a743a5e8860df99f402f508fd2f6/selenium-java-4.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.13.0/18cef0adbc08d152da07b234a04f6e8240ce215f/selenium-java-4.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-java/4.13.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/selenium-java-4.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/2.7.17/2de3dbb24459910c7d214ec42d6c34d3a1373f80/spring-boot-test-autoconfigure-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/2.7.17/dbfe47c35a42592bb9f5b62b3a9936f2e04800e8/spring-boot-test-autoconfigure-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test-autoconfigure/2.7.17/814795e6763d73e76d1706a9c450851d32146857/spring-boot-test-autoconfigure-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.7.17/4f6ea035b3363ab5e1e1ade1cf5c2e1b3bd23d6c/spring-boot-test-2.7.17-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.7.17/f607e7830b1fd034a37da6e04d09b15c1784a21b/spring-boot-test-2.7.17.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.7.17/88328e85667cad184e5a1a6a2a41d945a6dde2d6/spring-boot-test-2.7.17-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f98abbc2176cd35716cbad60d7f1d4c97ac89dd1/json-path-2.7.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f9d7d9659f2694e61142046ff8a216c047f263e8/json-path-2.7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f456c0b29dae9f6699ac947bf3dc69bc2d7ce4cb/json-path-2.7.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.22.0/2b9454bcf528122cfb8aaffa2f02e1c1dd4d3ec5/assertj-core-3.22.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.22.0/c300c0c6a24559f35fa0bd3a5472dc1edcd0111e/assertj-core-3.22.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.22.0/14e1aeedfc69f7779651aae076cc34a3e91b4ab5/assertj-core-3.22.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/a0a13cfc629420efb587d954f982c4c6a100da25/hamcrest-2.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/1820c0968dba3a11a1b30669bb1f01978a91dedc/hamcrest-2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/71eb1f4a9ce834a5496fb99af2949a3b7667a090/hamcrest-2.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/26d07692b618b8da29479febec7d55e18107ee48/junit-jupiter-params-5.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/ddeafe92fc263f895bfb73ffeca7fd56e23c2cce/junit-jupiter-params-5.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.8.2/ae9167fe224725dc9f0f1f75d5977ad6df299a00/junit-jupiter-params-5.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/429d353563c5fb35a3d47076bedbf75161e976c2/junit-jupiter-api-5.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/4c21029217adf07e4c0d0c5e192b6bf610c94bdc/junit-jupiter-api-5.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.8.2/a75d6242107e80c00a86574b2b5de89c904724e1/junit-jupiter-api-5.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/386b61876dd33d0ef0381189d3c1db9455d99659/junit-platform-commons-1.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/32c8b8617c1342376fd5af2053da6410d8866861/junit-platform-commons-1.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.8.2/7772be92638dac16b6cf3ff05acd715d9d599608/junit-platform-commons-1.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5fd01c33132462aab3905cb74bd1097a713ab91a/junit-jupiter-5.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/5a817b1e63f1217e5c586090c45e681281f097ad/junit-jupiter-5.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.8.2/3c791495768512669e0463f7be775c1ee4ea10c3/junit-jupiter-5.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/4.5.1/6aa189452f42167be3dc9ce5ac029df0f15ba0e5/mockito-junit-jupiter-4.5.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/4.5.1/f81fb60bd69b3a6e5537ae23b883326f01632a61/mockito-junit-jupiter-4.5.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-junit-jupiter/4.5.1/5a31b8e0389e9fa4011078541fbd6870e99145b4/mockito-junit-jupiter-4.5.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/4.5.1/c08b438bd19ba98419cf7919ba63e909f75b71c/mockito-core-4.5.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/4.5.1/ed456e623e5afc6f4cee3ae58144e5c45f3b3bf/mockito-core-4.5.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/4.5.1/db32ce8390caa346d527cec3358a6cb40e557732/mockito-core-4.5.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.1/56cfa73a7ab13fbb8d433570add90f087d40e243/jsonassert-1.5.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.1/6d842d0faf4cf6725c509a5e5347d319ee0431c3/jsonassert-1.5.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.5.1/89bbecfc158efebb7ac56112679b4bf9d9bffb06/jsonassert-1.5.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.3.30/14ebb2f3f2bebe8de7d0bb0fb28f21cb6479eb3a/spring-test-5.3.30-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.3.30/c0ba379b5836d6b6217d387988af82eb28a56e50/spring-test-5.3.30.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.3.30/c655d93f16f87f7d4e4bf8e5c99720efd1870bb1/spring-test-5.3.30-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.9.1/8ef88e77c158cdc17de55ad94e1e7e7972a91bd6/xmlunit-core-2.9.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.9.1/e5833662d9a1279a37da3ef6f62a1da29fcd68c4/xmlunit-core-2.9.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.9.1/736bb7761597461997a2660accc913a1e7483b89/xmlunit-core-2.9.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.1.4/2298abb467b0bfff78bf01e62fda15e51e617723/selenium-chrome-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.1.4/68af859b6ebb156c53ab8e54c0f130a6813b4973/selenium-chrome-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chrome-driver/4.1.4/776794ef62e87074f095d05cde0c04800893d32c/selenium-chrome-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v115/4.13.0/881c4a06d177e4dfe380627161cfd37204cb84bc/selenium-devtools-v115-4.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v115/4.13.0/76c322f8b51ce2176c1b9aae458e13d18aa51276/selenium-devtools-v115-4.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v115/4.13.0/d370262b483b3932c33359a36efea4e5091c79c6/selenium-devtools-v115-4.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v116/4.13.0/72346501dfd894a8f65a8f68e0dec20176387d8e/selenium-devtools-v116-4.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v116/4.13.0/5bb40cd24bcaf9d6015eb6cdf76784506d36c033/selenium-devtools-v116-4.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v116/4.13.0/574d309c25a8c3ead446aaa32de0192ce39ce15c/selenium-devtools-v116-4.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v117/4.13.0/38acb5452be48f1bf708b0657a7200687d956ed/selenium-devtools-v117-4.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v117/4.13.0/86db93ca74312d7795df726d0412cb350c31f15b/selenium-devtools-v117-4.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v117/4.13.0/fa76f03c68e142fdda51b56ae51177987572092c/selenium-devtools-v117-4.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.1.4/e76cfa3dfda9cbb946a25034c743344e1ae33c5d/selenium-firefox-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.1.4/eb04a522ccfd9e91f80a593dd07276f187a49bb/selenium-firefox-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-firefox-driver/4.1.4/2f4801535d419f89f038f68775f10b75584b4b16/selenium-firefox-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.1.4/31d59f5baaef954adf091816d9327b739f8e6b80/selenium-devtools-v85-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.1.4/627f9ea27c505032abb04b480aed5462e3a24182/selenium-devtools-v85-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-devtools-v85/4.1.4/c26b54f53708d8d96b4b4b4ea157fa3c13adbbb/selenium-devtools-v85-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.1.4/b3aaac0f8c8abe0d111b21ba49baf1e622fdfdc0/selenium-edge-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.1.4/3f216e94ed0f71d4a96b4df0880cff1c194d9b02/selenium-edge-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-edge-driver/4.1.4/9accfe99f80ccb14a970046ed779e5656ace741d/selenium-edge-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.1.4/535b6ebf0d195ac60bb3eed75c960d5b6fcf99cc/selenium-ie-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.1.4/de2e3bfb254f1b0972b1026087fe5b6b6b0e2bed/selenium-ie-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-ie-driver/4.1.4/a8f06658586504802d8e68cc5923761865ed7876/selenium-ie-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.1.4/b602f613848f9ce2fcd8a0e45d83cab6915f7276/selenium-safari-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.1.4/d882231dd0a27954a4c1ba627c28b5880edcc6e0/selenium-safari-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-safari-driver/4.1.4/e1d60d9dad5f65f5217a139322f241b8ec389e4d/selenium-safari-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.1.4/2b59d2f08bedf993e32bf32d6531c9548277d5f2/selenium-support-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.1.4/8aa95743eb0f5233e7f9634ee45dfbfd7d0ca9b1/selenium-support-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-support/4.1.4/ab00a2faa1d12d3bcbff8d5fb4459e75beb96364/selenium-support-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.1.4/f6f07ada7caf14059f1abf893c44c7c27eb4fb7d/selenium-chromium-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.1.4/963a217eed29f23fcf4ab6958ffb0bdb465c0997/selenium-chromium-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-chromium-driver/4.1.4/6fe80a6844bb9fcdcd3ea4e42cde954309040e51/selenium-chromium-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.1.4/a9db7735395394eb62f6c3c89c3a46ae723da060/selenium-remote-driver-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.1.4/dfe2fc3aeff186f9ae5d1f8b739a2d330b3e7b1c/selenium-remote-driver-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/4.1.4/8eecca8daee14771f3cff66e82d6a5e27e7dfa40/selenium-remote-driver-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.1.4/ac6cd8d069d5de93ae9ba33c42b2c145d3940d6d/selenium-http-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.1.4/3d291d9f6749990ae543e49636d41ffd7108be16/selenium-http-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-http/4.1.4/da7486c86452e9543a6394c023bcba7a972cf8/selenium-http-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.1.4/eb773d713d182a2c58fe92553580f21404bb48eb/selenium-json-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.1.4/d6b50de970b3cf420fdd58b656c500745202da85/selenium-json-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-json/4.1.4/4630e6d7645f9998b645b6e1c98c7dae6bfb33d2/selenium-json-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.1.4/b479ec5829ee71e1aaa40c63584096868258a4f9/selenium-api-4.1.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.1.4/b246fcd2411c2c9b7209077d9b47971ef9d4fefd/selenium-api-4.1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/4.1.4/d4d131ec2a9473ff121789622f3c34a82207f4a3/selenium-api-4.1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.12.3/4c66b91161f9f66499509ca4aa3631da17e2f4a6/async-http-client-2.12.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.12.3/6dfc91814cc8b3bc3327246d0e5df36911b9a623/async-http-client-2.12.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client/2.12.3/6aae0c3d119a2af663feb98734c227b99d6f3d54/async-http-client-2.12.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.12.3/62b1d8d814d5286a807fe4528b0cb7fd09640594/async-http-client-netty-utils-2.12.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.12.3/ad99d8622931ed31367d0fef7fa17eb62e033fb3/async-http-client-netty-utils-2.12.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.asynchttpclient/async-http-client-netty-utils/2.12.3/538b1c15744c43a670b24eb9d3077f4d43f8b1ee/async-http-client-netty-utils-2.12.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.11/94325a2ef0a830cf39b6bcea5b17106d4255c368/json-smart-2.4.11-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.11/cc5888f14a5768f254b97bafe8b9fd29b31e872e/json-smart-2.4.11.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.11/d5beaeca402054c5261d46d50fe0b45402bb050e/json-smart-2.4.11-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.2/c45b5962230be8a5f93759203870c98917bb8b31/jakarta.activation-api-1.2.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.2/99f53adba383cb1bf7c3862844488574b559621f/jakarta.activation-api-1.2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/1.2.2/191218647f4113e274dae4d4cf6ae135d42e7fb8/jakarta.activation-api-1.2.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.12.23/1ac88d54d214b8a56481f657eac1fd2d14a382c6/byte-buddy-agent-1.12.23-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.12.23/1cba11fdb72c383edacb909f79ae6870efd275e4/byte-buddy-agent-1.12.23.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.12.23/a482e3affcc9acd26f39fb220832feaa97d82967/byte-buddy-agent-1.12.23-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/bf42d7e47a3228513b626dd7d37ac6f072aeca4f/android-json-0.0.20131108.vaadin1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/fa26d351fe62a6a17f5cda1287c1c6110dec413f/android-json-0.0.20131108.vaadin1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.vaadin.external.google/android-json/0.0.20131108.vaadin1/a65eb5b1114f68e57996a48a05997708aa9f78b4/android-json-0.0.20131108.vaadin1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0.1/373f2b2c234b3d46bfe49a112cfe053b2c3b1beb/auto-service-1.0.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0.1/c9779f7372192a96c957a3df1faeeabd07881085/auto-service-1.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service/1.0.1/3acf67be1d46d0306fb1466d7b1c8f4ecf989004/auto-service-1.0.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.1.1/b855be4f39e0fe5bb27dd137fd37dd4c4e2c2f5a/auto-service-annotations-1.1.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.1.1/da12a15cd058ba90a0ff55357fb521161af4736d/auto-service-annotations-1.1.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto.service/auto-service-annotations/1.1.1/329099f6fdca7eb71fdf245c9458382d26d0052e/auto-service-annotations-1.1.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/1.2/4fe76e8a3f5aaafa743d23bac4347803ecda3d70/auto-common-1.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/1.2/ca270191fd7d2a7297da7c8f29184206df10c67d/auto-common-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.auto/auto-common/1.2/df6fd3394c59d505e588afad8caf042c37b39914/auto-common-1.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/e1911d4544f426600132fbd450a7ccab8a3ce8dc/guava-32.1.2-jre-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318/guava-32.1.2-jre.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/889966b493b8f3f8543367f050c8b2c48556471b/guava-32.1.2-jre-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/5cf95a2e18d79d404fd81263db36862287e736cc/jcommander-1.82-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/a7c5fef184d238065de38f81bbc6ee50cca2e21/jcommander-1.82.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.beust/jcommander/1.82/c4deb5b41ea41fcc0280da3e0ba5ec951d4e048c/jcommander-1.82-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.100.Final/3e7cb7bc5d0d4ccd37230289b9b37df7d34c0e6f/netty-handler-proxy-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.100.Final/af3cf676eed30184215426ecf0f0dde15555ea9c/netty-handler-proxy-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.100.Final/c0a2f860bb748cd0ee5ff600d927cfe8da2c5564/netty-handler-proxy-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.100.Final/d8be0b54191325da735d0c28887c0f5cda98e4e3/netty-codec-http-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.100.Final/992623e7d8f2d96e41faf1687bb963f5433e3517/netty-codec-http-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.100.Final/9ab63fe69f2d50a7a70386d06d6af5f9daa78fa7/netty-codec-http-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.100.Final/4e43755159b2933429b08e86a721909490cf6638/netty-transport-native-epoll-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.100.Final/cf3c3ef7cb7b30b58385d824dbaf85f5f72da221/netty-transport-native-epoll-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.100.Final/4e43755159b2933429b08e86a721909490cf6638/netty-transport-native-epoll-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.100.Final/d83003b8eac838e4bc3f7662a22f9f2d879c0fe4/netty-transport-native-epoll-4.1.100.Final-linux-x86_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.100.Final/e6573edf249410aacced1d4b1c0c99d1756af299/netty-transport-classes-epoll-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.100.Final/78489936ca1d91483e34a31d04a3b0812386eb39/netty-transport-classes-epoll-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.100.Final/f665b8758091fde2ea93211dbf9a89753e61fe68/netty-transport-classes-epoll-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.100.Final/8c29945567b786a60a98bee4636022d485ba055f/netty-transport-native-kqueue-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.100.Final/ae88188265e417b5c7b27cb880ecec2bd7dd8a35/netty-transport-native-kqueue-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.100.Final/8c29945567b786a60a98bee4636022d485ba055f/netty-transport-native-kqueue-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.100.Final/135c3a560a4fb84b0e2084f376610347483e2e8a/netty-transport-native-kqueue-4.1.100.Final-osx-x86_64.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.100.Final/eefc61caa71d43a973e89d0de7c2082c4fa5a8/netty-transport-classes-kqueue-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.100.Final/a32c1b13b82bfd7f09d4ea4836257d48056f0fe2/netty-transport-classes-kqueue-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.100.Final/190a0d35816319d6261beaaffc8965a4f8a8bcbf/netty-transport-classes-kqueue-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/2.0.4/dea768fe806e1352d7b3c05fa94b6391f7468238/netty-reactive-streams-2.0.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/2.0.4/f77c8eaa7d5e2f2160b6d21ba385cf726f164b2/netty-reactive-streams-2.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.typesafe.netty/netty-reactive-streams/2.0.4/b7e9bd2b5cac1d0bc7bcfd836807fddcbc81c746/netty-reactive-streams-2.0.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.100.Final/98ccfcd1e1b4d217fe7ab98909570362379fe3f5/netty-handler-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.100.Final/4c0acdb8bb73647ebb3847ac2d503d53d72c02b4/netty-handler-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.100.Final/62e9518330a0ce8ba0eba5dba37fc7e75ab5f297/netty-handler-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.100.Final/76f5ca086b771a3a88a49c60f04b954266721a5b/netty-transport-native-unix-common-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.100.Final/648ff5571022dbfa6789122e3872477bbf67fa7b/netty-transport-native-unix-common-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.100.Final/41e9297d34183dee5dc8b8f2960ae08f2ab0c3c1/netty-transport-native-unix-common-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.100.Final/dff97a0cc292cd8cbba30d174179c52ce57e4445/netty-codec-socks-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.100.Final/a9fbf4d64b08abed542eefd5f7aed4807edca56f/netty-codec-socks-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.100.Final/1618d1e5c1b36bb781c5142318ddbb010777d98c/netty-codec-socks-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.100.Final/fcc7695974a619ce8e2390bb6cca48aa797d5386/netty-codec-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.100.Final/9c3c71e7cf3b8ce3bfc9fa52a524b9ca7ddf259c/netty-codec-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.100.Final/201a9f1a068e2171688fe70dd7212253e16b7e95/netty-codec-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.100.Final/743ad4b9efa250a468bbb45dc8c43777d30ff660/netty-transport-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.100.Final/6620fbfb47667a5eb6050e35c7b4c88000bcd77f/netty-transport-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.100.Final/cddfc60237e1da7da3dfc15632ef4e80769c08be/netty-transport-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.100.Final/156438ae717cbaec24227c4df3d0f3b24db864ab/netty-buffer-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.100.Final/39b05d2d4027971bf99111a9be1d7035a116bb55/netty-buffer-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.100.Final/46073915adc6d586d1a1c93eef55bdd40e14a440/netty-buffer-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.100.Final/4eeb98383b8efc07dffaf71a36dd88806a48e802/netty-resolver-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.100.Final/fe62f9ccd41b8660d07639dbbab8ae1edd6f2720/netty-resolver-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.100.Final/a32922de7f08bb7bbac4bf2054a4e664eabb1133/netty-resolver-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.100.Final/e499ae47879ccf01c77a0bc129774efa7a5d385a/netty-common-4.1.100.Final-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.100.Final/847f942381145de23f21c836d05b0677474271d3/netty-common-4.1.100.Final.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.100.Final/b12f834d5bad1a1e9d808c4969a1f8acd854fa22/netty-common-4.1.100.Final-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.13.0/7069d525fc553dfae180d7704656ab1c5ab59635/opentelemetry-exporter-logging-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.13.0/1d53b783d3f565606e19776a3411fb34fa642238/opentelemetry-exporter-logging-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-logging/1.13.0/433faac342b6238b20424e973dcb278ff6ef00b6/opentelemetry-exporter-logging-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.13.0-alpha/1494f96a4f1733ca444a48d5056657ea9d981b5/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.13.0-alpha/f01d20fb5b8a314c4ae69c34f1c2cbbe7c78c71f/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.13.0-alpha/1c17f982bea81e478d33f048866de5a500714f07/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.13.0/42adc22b7371de8d96035ebbac1c5605c99ab1ec/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.13.0/5b9bdd69f54b28bb336516d05d08fc32c3b7448b/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.13.0/d5ad78ab6c9047a8f3a749df1e49b3f6fce425dc/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.13.0/fd30605c399f2f149738ec6f7bbed463efcf105a/opentelemetry-sdk-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.13.0/2b2a72c07c88b9df272c85c55f6b37b30ef88932/opentelemetry-sdk-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.13.0/7cf5753624f11c5d15303ee7339538413ee254d8/opentelemetry-sdk-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.13.0/f6edccae683f09ba81ac773b2139e1b31b9e0fd4/opentelemetry-sdk-trace-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.13.0/522d7bd82da2fbd53e782062d87e1d3872e196e5/opentelemetry-sdk-trace-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.13.0/99eea25ee999fa73a2731dcbcaa5eb370a925762/opentelemetry-sdk-trace-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.13.0-alpha/88c9ef71984ccaa2149405b9086aab8347c58022/opentelemetry-sdk-metrics-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.13.0-alpha/231fbb2c38ed6456244948ae13221de21bd236e0/opentelemetry-sdk-metrics-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.13.0-alpha/c855f9005d728f784a16cba24cbae68f02e7a2a7/opentelemetry-sdk-metrics-1.13.0-alpha-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.13.0-alpha/9a3508a27c6c9cb874ab2fcdd889f5813e77f383/opentelemetry-sdk-logs-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.13.0-alpha/346a4cf9b4778ff97b2ecca28344ff2bccfca625/opentelemetry-sdk-logs-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.13.0-alpha/22b24588487d0096952a15ba778ac81f0fd714e1/opentelemetry-sdk-logs-1.13.0-alpha-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.13.0/4964250ba745d1122b3e9fe6e8b3f89d239db5f0/opentelemetry-sdk-common-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.13.0/1da9c40ece22166bea9952b95b7e0295e2cdf944/opentelemetry-sdk-common-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.13.0/f7df0c703d48fda377873f68780ecfbe6d807fe9/opentelemetry-sdk-common-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.13.0-alpha/44e7c28a80f409c4922daf258ea1739dab6495cf/opentelemetry-semconv-1.13.0-alpha-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.13.0-alpha/3fa7b8f67d9fb77cee450a2e0727e1978032d6ad/opentelemetry-semconv-1.13.0-alpha.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-semconv/1.13.0-alpha/273ef88be0575d46d52828dd6abdedf246ccd3a5/opentelemetry-semconv-1.13.0-alpha-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.13.0/3e74dfbef32d474379a82469acc9b716934cd23d/opentelemetry-api-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.13.0/558f0bc9bb80f639a6edf816872a4acb7edd2a88/opentelemetry-api-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.13.0/56a0f0be78504ba33169895ec1fe18ba98798e5b/opentelemetry-api-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.13.0/8ddc0552eb6800a15b301956e0c76dd9bc46196e/opentelemetry-context-1.13.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.13.0/abb6a2c76fdf132724b3462d0b5ec0966892e0df/opentelemetry-context-1.13.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.13.0/f6d85991dd462492f2fd034494b268365ca2dfe5/opentelemetry-context-1.13.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/559938eedcd66eef8a655550a940b13807eee645/jtoml-2.0.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/2085505b2b173e14b2a7702edd703ce185fd6206/jtoml-2.0.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/io.ous/jtoml/2.0.0/ef2e979aa1e15cacd7e1a5fc1ae2f001c87e83a8/jtoml-2.0.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/efd2543e352e55ce5a685eed6db8af028b737905/commons-exec-1.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/8dfb9facd0830a27b1b5f29f84593f0aeee7773b/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-exec/1.3/e4cd47daebd31ac59410ec62e7e5ff835f16e28a/commons-exec-1.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.4.11/fb734afb1b18d070a811bf25b38dc1b0299f5df2/accessors-smart-2.4.11-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.4.11/245ceca7bdf3190fbb977045c852d5f3c8efece1/accessors-smart-2.4.11.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/41d55b3c2254de9837b4ec8923cbd371b8a7eab5/opentest4j-1.2.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/e82888bde2086df773006797d435cd0ba6af0e4e/opentest4j-1.2.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e0787a997746ac32639e0bf3cb27af8dce8a3428/apiguardian-api-1.1.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/e3839c92bcb2ac079b30eb7becbe3c98e082fa22/apiguardian-api-1.1.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1d064e61aad6c51cc77f9b59dc2cccc78e792f5a/failureaccess-1.0.1-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/a9aadb2d577ff54ba3115ee7357cbe65bd2a470f/failureaccess-1.0.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/b19b5927c2c25b6c70f093767041e641ae0b1b35/jsr305-3.0.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/7cb5b4e91eb0741882c8fefb2fd0338eff9857c/jsr305-3.0.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/ee4ecf6c55e3f2b05b839aa05c70f1298437ebe9/checker-qual-3.33.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/de2b60b62da487644fc11f734e73c8b0b431238f/checker-qual-3.33.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/ae55718d8fcecd10b3693eff2137cd51e414273c/checker-qual-3.33.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/8781f46ef842929cf22e83273ef0d2091b96845f/error_prone_annotations-2.18.0-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/89b684257096f548fa39a7df9fdaa409d4d4df91/error_prone_annotations-2.18.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/c3fd206ea6984f925cf7aba5113c1e79ab0bb41c/error_prone_annotations-2.18.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/74fb66e276fc42784d884d51f841e35232bc90de/j2objc-annotations-2.8-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/c85270e307e7b822f1086b93689124b89768e273/j2objc-annotations-2.8.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/79eec0320857e5f74ced22205deed67df5bc807c/j2objc-annotations-2.8-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/d3cddd3497e618c6d3810ef439f13666f889abe4/reactive-streams-1.0.4-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/3864a1320d97d7b045f729a326e1e077661f31b7/reactive-streams-1.0.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/d2e2e95f64a8a91b50b9f7670b066915b998fd6c/reactive-streams-1.0.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.2.3/94646d86e2896bfb4a3eabfa43ed0adb00a567de/failsafe-3.2.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.2.3/8e004e3b315d7eff434463942314900c3a43f821/failsafe-3.2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/dev.failsafe/failsafe/3.2.3/56d243d3cf8867a4808c7d606c5d15cb56c11fdb/failsafe-3.2.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/ce26e415ccafa10c6624a07bdb38d969110f568f/asm-9.3-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/69d09fa55cf017a99b5367fa5c4f72e90113f34b/asm-9.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/ea87fe3d752e24397f71f347872e79a89c61a704/junit-jupiter-engine-5.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c598b4328d2f397194d11df3b1648d68d7d990e3/junit-jupiter-engine-5.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.8.2/c9ed5fc1cadef3121a3e9bcd4673d0188fd467da/junit-jupiter-engine-5.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/ef25ff956479198a71a7d1b23e11f27fb09393b6/junit-platform-engine-1.8.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/b737de09f19864bd136805c84df7999a142fec29/junit-platform-engine-1.8.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.8.2/8ffc510b691119e4e25c2f14902a837298d55c5d/junit-platform-engine-1.8.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/3.2/9f5da90020a255f25b6d8da8db273e2d38ce9805/objenesis-3.2-sources.jar" kind="lib" path="C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/3.2/7fadf57620c8b8abdf7519533e5527367cb51f09/objenesis-3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/PNTChoByeongJun/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/3.2/204ce3a4bb2412ff0f1bd9243a8a3b31a9d26f11/objenesis-3.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+</classpath>
