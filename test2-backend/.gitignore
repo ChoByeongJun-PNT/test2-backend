@@ -1,0 +1,26 @@
+# 빌드 파일 제외
+/build/
+/bin/
+/target/
+
+# 컴파일된 클래스 파일
+*.class
+
+# 빌드 결과물
+*.jar
+*.war
+*.ear
+
+# IDE 관련 파일
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# 로그 파일
+*.log
+
+# 기타 임시 파일
+*.tmp
+*.bak
